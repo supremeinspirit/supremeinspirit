@@ -67,7 +67,7 @@ SHA256: 8cb142890e67b26fa16b0f060ecfc4dafcdf5c2b85d03af876ae3feb6b78617a
 
 Package: com.supremeinspirit.begonecia
 Name: BegoneCIA Reworked
-Version: 1.1.2
+Version: 1.1.3
 Architecture: iphoneos-arm64
 Description: Control Center toggle that blocks microphone, camera and location system-wide. With a settings pane to exclude apps and to pause blocking during calls.
 Depends: ellekit, com.opa334.ccsupport, preferenceloader, com.opa334.altlist
@@ -76,15 +76,15 @@ Replaces: me.nepeta.begonecia, com.johndie.begonecia
 Maintainer: supremeinspirit
 Author: Nepeta <ominousness@protonmail.com>
 Section: Tweaks
-Filename: debs/BegoneCIAReworked_1.1.2_rootless_iphoneos-arm64.deb
-Size: 32032
-MD5sum: 94f369f909811ad852b371d2e7556b7e
-SHA1: 538e7654d84b53dcbabb70f9b87e15443697166f
-SHA256: 38c5f3fca4a406ef71f22deea2a11a4115f3af94b1665154812a857c8a6834d9
+Filename: debs/BegoneCIAReworked_1.1.3_rootless_iphoneos-arm64.deb
+Size: 33884
+MD5sum: d9ea952bdb5c5a97ce1a8a492a949e24
+SHA1: 7e87fe4894c5dbf2de7211dbb254286507b37cf9
+SHA256: 927b22a8218ad1d2a7d17a180dbb1dc6a1c247a0d597eb53978411eb6c79aba4
 
 Package: com.supremeinspirit.begonecia
 Name: BegoneCIA Reworked
-Version: 1.1.2
+Version: 1.1.3
 Architecture: iphoneos-arm
 Description: Control Center toggle that blocks microphone, camera and location system-wide. With a settings pane to exclude apps and to pause blocking during calls.
 Depends: firmware (>= 13.0), firmware (<< 15.0), mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.opa334.altlist
@@ -93,8 +93,8 @@ Replaces: me.nepeta.begonecia, com.johndie.begonecia
 Maintainer: supremeinspirit
 Author: Nepeta <ominousness@protonmail.com>
 Section: Tweaks
-Filename: debs/BegoneCIAReworked_1.1.2_legacy-rootful_iphoneos-arm.deb
-Size: 28956
-MD5sum: 4d3e52b3b7b4b50517c77e09a3f49acb
-SHA1: caf9956c4c4d91a7697fddec3b5b225961a21159
-SHA256: 0100282ccc73bb65f3c7bcad671ace7440ce3073d8798f931e76cb09d517eba4
+Filename: debs/BegoneCIAReworked_1.1.3_legacy-rootful_iphoneos-arm.deb
+Size: 28976
+MD5sum: 9257b1e6ccffe9810e1fb96078108f49
+SHA1: da5a24402d8e7dc01874bb248fb46014309aada0
+SHA256: 2ecc435258899639781b2697d25d445d67188871a406ff640084387f840ec42e

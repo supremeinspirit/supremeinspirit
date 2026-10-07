@@ -30,7 +30,7 @@ SHA256: d973e0a52a04565392991f158734578a25aa2d30bcfb1344bae0410b9faa8b0a
 
 Package: dylv.liquidass
 Name: Liquid (Gl)ass Reworked
-Version: 0.1.1-2b+reworked4~test3
+Version: 0.1.1-2b+reworked4~test5
 Architecture: iphoneos-arm64
 Description: Liquid (Gl)ass Reworked - Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks) with the Reworked fixes for iOS 17 built in (volume HUD glass, Dynamic Island glass, Control Center slider modules, cover sheet, widgets, clear dark-mode tints). The fixes need an arm64e device.
 Maintainer: supremeinspirit
@@ -40,11 +40,11 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 26.0), 
 Replaces: dylv.blurless, com.supremeinspirit.liquidassreworked
 Conflicts: dylv.blurless, com.supremeinspirit.liquidassreworked
 Provides: com.supremeinspirit.liquidassreworked
-Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test3_rootless_iphoneos-arm64.deb
-Size: 5169580
-MD5sum: d59daf940c5817b4f6ceac6abbf9c047
-SHA1: 23302136805fc4a1aaf70325d857ca2b6bb43ab1
-SHA256: 59f8dbc27c3703151e7c5a5375375a26ae8f786fe8234bcfe8f0192564905298
+Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test5_rootless_iphoneos-arm64.deb
+Size: 5169536
+MD5sum: ce12f5af0414393c0f85c3773b833d79
+SHA1: 282c1bf7e1cb60df9a0dfda5726b19c3f52c97ce
+SHA256: b59e6f2ba08f461b3e907ad744e14a85fd897ba8a369d22d5398d8351521ba79
 
 Package: dylv.liquidass
 Name: Liquid (Gl)ass Reworked

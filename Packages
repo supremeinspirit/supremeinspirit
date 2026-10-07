@@ -45,3 +45,22 @@ Size: 5145246
 MD5sum: 8e4060db65e79fd81bb1cbb547db53cc
 SHA1: 4371fe73857fc831f5e15f843df786767d218eb3
 SHA256: d6f2a7a96361b4a621ca81746ebc44c0b8ea02b7ad212307dbdbb74f4cecbd5b
+
+Package: dylv.liquidass
+Name: Liquid (Gl)ass Reworked
+Description: Liquid (Gl)ass Reworked - rootful iOS 13 port of Liquid (Gl)ass by dylv (winaviation-tweaks)
+Maintainer: supremeinspirit
+Author: dylv (original tweak), supremeinspirit (iOS 13 port)
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), preferenceloader, com.opa334.altlist
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Replaces: dylv.blurless
+Conflicts: dylv.blurless
+Architecture: iphoneos-arm
+Version: 0.1.1-2b+ios13.15
+Installed-Size: 7268
+Filename: debs/LiquidGlassReworked_0.1.1-2b-ios13.15_rootful-ios13_iphoneos-arm.deb
+Size: 4725862
+MD5sum: 45bf76b9d875c36500d9f1b37b3d30ca
+SHA1: b2c9a2c662cec6b4b66485b162a85b086cd85828
+SHA256: 8cb142890e67b26fa16b0f060ecfc4dafcdf5c2b85d03af876ae3feb6b78617a

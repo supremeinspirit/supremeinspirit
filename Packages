@@ -134,3 +134,40 @@ Size: 5184572
 MD5sum: e7cb7b47c82a1bc9eb013fa0b019ad53
 SHA1: 5ebabbd57709485eb9735c249e18bbb96b71ad48
 SHA256: 906ba8378dacb523664016ddb8a4c945a70045a8a10087847852f933d22d1b34
+
+Package: dylv.liquidass
+Name: Liquid (Gl)ass Reworked
+Version: 0.1.1-2b+reworked4~test10
+Architecture: iphoneos-arm64
+Description: Liquid (Gl)ass Reworked - Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks) with the Reworked fixes for iOS 17 built in (volume HUD glass, Dynamic Island glass, Control Center slider modules, cover sheet, widgets, clear dark-mode tints). The fixes need an arm64e device.
+Maintainer: supremeinspirit
+Author: dylv (Liquid (Gl)ass), supremeinspirit (Reworked fixes)
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 26.0), preferenceloader, com.opa334.altlist
+Replaces: dylv.blurless, com.supremeinspirit.liquidassreworked
+Conflicts: dylv.blurless, com.supremeinspirit.liquidassreworked
+Provides: com.supremeinspirit.liquidassreworked
+Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test10_rootless_iphoneos-arm64.deb
+Size: 5187930
+MD5sum: c87430f0e4d7a45def8f879458f460c2
+SHA1: a2a5b4990d331d96a95df812db2b99a6bf070005
+SHA256: 5a3c32b5b263f0b91a980c791d6d61bacd38b439734a01677d149e051e843055
+
+Package: dylv.liquidass
+Name: Liquid (Gl)ass Reworked
+Description: Liquid (Gl)ass Reworked - rootful iOS 13 port of Liquid (Gl)ass by dylv (winaviation-tweaks)
+Maintainer: supremeinspirit
+Author: dylv (original tweak), supremeinspirit (iOS 13 port)
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), preferenceloader, com.opa334.altlist
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Replaces: dylv.blurless
+Conflicts: dylv.blurless
+Architecture: iphoneos-arm
+Version: 0.1.1-2b+ios13.16
+Installed-Size: 7268
+Filename: debs/LiquidGlassReworked_0.1.1-2b-ios13.16_rootful-ios13_iphoneos-arm.deb
+Size: 4726298
+MD5sum: 3c2dc703dc432fcbfae1c09377d66c94
+SHA1: 5be69704431beddc5e81283a943517748b54954a
+SHA256: 281edc727034b61139712b7aa7846f773e6fd893b7c161ee896f0593e7db125f

@@ -6,10 +6,10 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Tweaks by supremeinspirit: Liquid (Gl)ass Reworked test builds and HIPCharge
-Date: Wed, 07 Oct 2026 00:04:19 UTC
+Date: Wed, 07 Oct 2026 00:16:02 UTC
 MD5Sum:
- 88902969a916482cfe35b49000664170 2101 Packages
- 88019afbd3ad3b99a396882dfcafef01 949 Packages.gz
+ d113c77b3308ef5d3c623fb59e131cc2 2101 Packages
+ 51eadde506a0b2bad08420472400f3bd 943 Packages.gz
 SHA256:
- 02d179446646ad54cee765f29f59c7549f73d61eafd5b2a360994cc2407a25e2 2101 Packages
- ff3dc01b11512dd85d9c471f21819d0d88ab6079dc38ea512f3bfdf09172bdea 949 Packages.gz
+ 4a7728d93d98303fe0a93d2eae15bc1e315ad8dc6766954ebb1114092f5a4fa0 2101 Packages
+ 0a61ab81cb8e85127da0fd3fdbaf505e4f6169dcb943b42bbf2bf1d7b0db1616 943 Packages.gz

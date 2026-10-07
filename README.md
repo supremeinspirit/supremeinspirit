@@ -8,7 +8,7 @@ Add this source:
 
 | Package | Version | For |
 | --- | --- | --- |
-| Liquid (Gl)ass Reworked (`dylv.liquidass`) | 0.1.1b+reworked4~test2 (**test build**) | rootless, iOS 15 and later |
+| Liquid (Gl)ass Reworked (`dylv.liquidass`) | 0.1.1-2b+reworked4~test3 (**test build**, base 0.1.1-2b) | rootless, iOS 15 and later |
 | Liquid (Gl)ass Reworked (`dylv.liquidass`) | 0.1.1-2b+ios13.15 | rootful (iphoneos-arm), iOS 13 port |
 | HIPCharge (`com.supremeinspirit.hipcharge`) | 1.6.1 | rootless (iphoneos-arm64) and rootful legacy (iphoneos-arm) |
 

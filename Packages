@@ -95,3 +95,18 @@ Size: 68226
 MD5sum: 81fdda14e388e4a412450e7c7677fd39
 SHA1: cc974df534d6d6140ec1ecb7052232cd473b556a
 SHA256: e33311fe2be2ff988bfb16298001a6c8bcb41c388df7bd441d708946c9c8fccb
+
+Package: com.supremeinspirit.ccrespring13
+Name: CCRespring13
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Control Center module for iOS 13 (rootful) that works like CCRespring by Mr.Zhang: tap = respring, long press / 3D Touch = a menu with Respring, Reboot, Shutdown, SafeMode, LDRestart and RebootUserspace, each confirmed before it runs. Needs CCSupport.
+Maintainer: supremeinspirit
+Author: supremeinspirit (rebuild), Mr.Zhang (original CCRespring)
+Section: Control Center (Modules)
+Depends: com.opa334.ccsupport, firmware (>= 13.0)
+Filename: debs/CCRespring13_1.0.2_rootful-ios13_iphoneos-arm.deb
+Size: 12204
+MD5sum: e4d01dffad3697061644083d5def12c7
+SHA1: 10a0af93a1bebffaa881d5ac5948378dbf8a5320
+SHA256: 47181dd4b0acb37ec367a08b560f6e3dd3d5d06713247e37be0fc47fd33e0784

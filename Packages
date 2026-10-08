@@ -73,25 +73,25 @@ Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
 Replaces: dylv.blurless
 Conflicts: dylv.blurless
 Architecture: iphoneos-arm
-Version: 0.1.1-2b+ios13.16
+Version: 0.1.1-2b+ios13.17
 Installed-Size: 7268
-Filename: debs/LiquidGlassReworked_0.1.1-2b-ios13.16_rootful-ios13_iphoneos-arm.deb
-Size: 4726298
-MD5sum: 3c2dc703dc432fcbfae1c09377d66c94
-SHA1: 5be69704431beddc5e81283a943517748b54954a
-SHA256: 281edc727034b61139712b7aa7846f773e6fd893b7c161ee896f0593e7db125f
+Filename: debs/LiquidGlassReworked_0.1.1-2b-ios13.17_rootful-ios13_iphoneos-arm.deb
+Size: 4728586
+MD5sum: ad473a5a89eeaea5694cc25f5d9827e7
+SHA1: dfcb4e2448f143f06d8cbe7efc4af7fbebf14c62
+SHA256: afabe11e135f37ea9bed41db56150bdd820c7d871d5f3d26ca7e02ca66315d14
 
 Package: com.supremeinspirit.liquidassreworked
-Name: Liquid (Gl)ass Reworked fixes (test11)
-Version: 4~test11
+Name: Liquid (Gl)ass Reworked fixes (test12)
+Version: 4~test12
 Architecture: iphoneos-arm64
-Description: The Reworked test11 fixes (test10 + Control Center slider module shape on iOS 15/16) as an add-on for the original Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks). Install it on top of the original; arm64e only.
+Description: The Reworked test12 fixes (test11 + keyboard keys of one shape in every app) as an add-on for the original Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks). Install it on top of the original; arm64e only.
 Maintainer: supremeinspirit
 Author: supremeinspirit (fixes), dylv (original Liquid (Gl)ass)
 Section: Tweaks
 Depends: dylv.liquidass, firmware (>= 15.0)
-Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test11_rootless-patch_iphoneos-arm64.deb
-Size: 65008
-MD5sum: 9e749de7c13e903cd293bf9ebc63f656
-SHA1: 09ecfbd46c5704595abadce598cad92d23a53aaf
-SHA256: 7a7c29e45e2799e84c3dd271fd765afe93eae5b88e0136070a750120fa930322
+Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test12_rootless-patch_iphoneos-arm64.deb
+Size: 68226
+MD5sum: 81fdda14e388e4a412450e7c7677fd39
+SHA1: cc974df534d6d6140ec1ecb7052232cd473b556a
+SHA256: e33311fe2be2ff988bfb16298001a6c8bcb41c388df7bd441d708946c9c8fccb

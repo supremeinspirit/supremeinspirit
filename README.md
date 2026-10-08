@@ -8,9 +8,9 @@ Add this source:
 
 | Package | Version | For |
 | --- | --- | --- |
-| Liquid (Gl)ass Reworked fixes (`com.supremeinspirit.liquidassreworked`) | 4~test11 (**Control Center slider fix**; patch package, install the original `dylv.liquidass` 0.1.1-2b by dylv first, it is not in this repo) | rootless, iOS 15 and later, arm64e |
-| Liquid (Gl)ass Reworked (`dylv.liquidass`) | 0.1.1-2b+ios13.16 | rootful (iphoneos-arm), iOS 13 port, the whole tweak |
+| Liquid (Gl)ass Reworked fixes (`com.supremeinspirit.liquidassreworked`) | 4~test12 (**keyboard key shape fix**; patch package, install the original `dylv.liquidass` 0.1.1-2b by dylv first, it is not in this repo) | rootless, iOS 15 and later, arm64e |
+| Liquid (Gl)ass Reworked (`dylv.liquidass`) | 0.1.1-2b+ios13.17 | rootful (iphoneos-arm), iOS 13 port, the whole tweak |
 | HIPCharge (`com.supremeinspirit.hipcharge`) | 1.6.1 | rootless (iphoneos-arm64) and rootful legacy (iphoneos-arm) |
 | BegoneCIA Reworked (`com.supremeinspirit.begonecia`) | 1.2.0 | rootless (iphoneos-arm64, iOS 15 and later) and rootful legacy (iphoneos-arm, iOS 13 and 14) |
 
-The Liquid (Gl)ass packages are the same two files as in the release v3 test11; older builds are no longer offered. Releases: [LiquidGlass-Reworked](https://github.com/supremeinspirit/LiquidGlass-Reworked/releases), [HIPCharge](https://github.com/supremeinspirit/HIPCharge/releases), [BegoneCIA Reworked](https://github.com/supremeinspirit/BegoneCIA-Reworked/releases).
+The Liquid (Gl)ass packages are the same two files as in the release v3 test12; older builds are no longer offered. Releases: [LiquidGlass-Reworked](https://github.com/supremeinspirit/LiquidGlass-Reworked/releases), [HIPCharge](https://github.com/supremeinspirit/HIPCharge/releases), [BegoneCIA Reworked](https://github.com/supremeinspirit/BegoneCIA-Reworked/releases).

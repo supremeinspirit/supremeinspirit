@@ -110,3 +110,18 @@ Size: 12204
 MD5sum: e4d01dffad3697061644083d5def12c7
 SHA1: 10a0af93a1bebffaa881d5ac5948378dbf8a5320
 SHA256: 47181dd4b0acb37ec367a08b560f6e3dd3d5d06713247e37be0fc47fd33e0784
+
+Package: com.supremeinspirit.podified13
+Name: Podified13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Rebuild for rootful iOS 13 of the idea of Podified by John d_ie: iPod naming in Settings, no Cellular row, "iPod" or nothing as status bar carrier label, optional hidden Phone app. Cosmetic only.
+Maintainer: supremeinspirit
+Author: supremeinspirit (rebuild), John d_ie (original Podified)
+Section: Tweaks
+Depends: preferenceloader, firmware (>= 13.0)
+Filename: debs/Podified13_1.0.1_rootful-ios13_iphoneos-arm.deb
+Size: 14642
+MD5sum: a814d1445ec6fd38ebb4bd171c2e3be3
+SHA1: 14ed6187dad727fd0e3de0c1996c5df1bd2644f7
+SHA256: 7020b2231ce3f2566dee04744878258124ad8d09b79ea60790994b7bb4aa5540

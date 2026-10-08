@@ -8,7 +8,7 @@ Add this source:
 
 | Package | Version | For |
 | --- | --- | --- |
-| Liquid (Gl)ass Reworked fixes (`com.supremeinspirit.liquidassreworked`) | 4~test12 (**keyboard key shape fix**; patch package, install the original `dylv.liquidass` 0.1.1-2b by dylv first, it is not in this repo) | rootless, iOS 15 and later, arm64e |
+| Liquid (Gl)ass Reworked fixes (`com.supremeinspirit.liquidassreworked`) | 4~test12 (**keyboard key shape fix**; patch package, install the original `dylv.liquidass` 0.1.1-2b by dylv first, it is not in this repo) | rootless, iOS 15 and later, arm64 |
 | Liquid (Gl)ass Reworked (`dylv.liquidass`) | 0.1.1-2b+ios13.17 | rootful (iphoneos-arm), iOS 13 port, the whole tweak |
 | HIPCharge (`com.supremeinspirit.hipcharge`) | 1.6.1 | rootless (iphoneos-arm64) and rootful legacy (iphoneos-arm) |
 | BegoneCIA Reworked (`com.supremeinspirit.begonecia`) | 1.2.0 | rootless (iphoneos-arm64, iOS 15 and later) and rootful legacy (iphoneos-arm, iOS 13 and 14) |

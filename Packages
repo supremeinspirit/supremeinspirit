@@ -85,7 +85,7 @@ Package: com.supremeinspirit.liquidassreworked
 Name: Liquid (Gl)ass Reworked fixes (test12)
 Version: 4~test12
 Architecture: iphoneos-arm64
-Description: The Reworked test12 fixes (test11 + keyboard keys of one shape in every app) as an add-on for the original Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks). Install it on top of the original; arm64e only.
+Description: The Reworked test12 fixes (test11 + keyboard keys of one shape in every app) as an add-on for the original Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks). Install it on top of the original; arm64 only.
 Maintainer: supremeinspirit
 Author: supremeinspirit (fixes), dylv (original Liquid (Gl)ass)
 Section: Tweaks

@@ -82,19 +82,19 @@ SHA1: dfcb4e2448f143f06d8cbe7efc4af7fbebf14c62
 SHA256: afabe11e135f37ea9bed41db56150bdd820c7d871d5f3d26ca7e02ca66315d14
 
 Package: com.supremeinspirit.liquidassreworked
-Name: Liquid (Gl)ass Reworked fixes (test12)
-Version: 4~test12
+Name: Liquid (Gl)ass Reworked fixes (test16)
+Version: 4~test16
 Architecture: iphoneos-arm64
-Description: The Reworked test12 fixes (test11 + keyboard keys of one shape in every app) as an add-on for the original Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks). Install it on top of the original; arm64 only.
+Description: The Reworked test16 fixes (test12 + Dynamic Island: audio wave without its black box, optional clear camera pill) as an add-on for the original Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks). Install it on top of the original; arm64 only.
 Maintainer: supremeinspirit
 Author: supremeinspirit (fixes), dylv (original Liquid (Gl)ass)
 Section: Tweaks
 Depends: dylv.liquidass, firmware (>= 15.0)
-Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test12_rootless-patch_iphoneos-arm64.deb
-Size: 68226
-MD5sum: 81fdda14e388e4a412450e7c7677fd39
-SHA1: cc974df534d6d6140ec1ecb7052232cd473b556a
-SHA256: e33311fe2be2ff988bfb16298001a6c8bcb41c388df7bd441d708946c9c8fccb
+Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test16_rootless-patch_iphoneos-arm64.deb
+Size: 78194
+MD5sum: 183e5f048af82727ff56b3c7ac93abf4
+SHA1: 23a9106d68158c5b4fa65ca7d11329fb7ce9e8e2
+SHA256: 54e4e84fc8fa973001340d722db392278956491388959acdf39f8bb03ec08d63
 
 Package: com.supremeinspirit.ccrespring13
 Name: CCRespring13

@@ -82,19 +82,19 @@ SHA1: dfcb4e2448f143f06d8cbe7efc4af7fbebf14c62
 SHA256: afabe11e135f37ea9bed41db56150bdd820c7d871d5f3d26ca7e02ca66315d14
 
 Package: com.supremeinspirit.liquidassreworked
-Name: Liquid (Gl)ass Reworked fixes (test18)
-Version: 4~test18
+Name: Liquid (Gl)ass Reworked fixes (test19)
+Version: 4~test19
 Architecture: iphoneos-arm64
-Description: The Reworked test18 fixes (test17 + "Clear Camera Pill" also clears the resting Dynamic Island; test16 + liquid glass on the text loupe, the lens shown while the insertion point is dragged through text, and on search fields / Safari's address bar, with the settings pages "Text Loupe" and "Text Bars") as an add-on for the original Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks). Install it on top of the original. arm64, rootless.
+Description: The Reworked test19 fixes (test18 + no flicker of the Dynamic Island glass when the island opens and closes with "Clear Camera Pill" on; test18 = "Clear Camera Pill" also clears the resting Dynamic Island, liquid glass on the text loupe and on search fields / Safari's address bar, with the settings pages "Text Loupe" and "Text Bars") as an add-on for the original Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks). Install it on top of the original. arm64, rootless.
 Maintainer: supremeinspirit
 Author: supremeinspirit (fixes), dylv (original Liquid (Gl)ass)
 Section: Tweaks
 Depends: dylv.liquidass, firmware (>= 15.0)
-Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test18_rootless-patch_iphoneos-arm64.deb
-Size: 72908
-MD5sum: 43d8a3e7813c3b44b9d7312f3a7f9519
-SHA1: 3aa585ee5e2f54c42c08a4549ef7227cdae55d10
-SHA256: c14287b14b1ccd73681f37f9237c64d99df656a9e6e968ceba37d6b3b99085cc
+Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test19_rootless-patch_iphoneos-arm64.deb
+Size: 106998
+MD5sum: ac9024bd43d0f2f2bb8cbf90466a50f4
+SHA1: 9f37e184d07320694de02566e6792f8c0dad987b
+SHA256: 199077ed4ffd5d84e25479b69b71e611ec7312363a7034caea325b4e3889ea8a
 
 Package: com.supremeinspirit.ccrespring13
 Name: CCRespring13

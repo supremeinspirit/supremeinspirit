@@ -5,11 +5,11 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Tweaks by supremeinspirit: Liquid (Gl)ass Reworked (rootless patch for the original 0.1.1-2b, rootful iOS 13 port), HIPCharge, BegoneCIA Reworked, CCRespring13 and Podified13
-Date: Sat, 10 Oct 2026 10:10:53 UTC
+Description: Tweaks by supremeinspirit: Liquid (Gl)ass Reworked (rootless patch for the original 0.1.1-2b, rootful iOS 13 port), HIPCharge, BegoneCIA Reworked, CCRespring13, Podified13 and UnlockWave Fix
+Date: Sun, 11 Oct 2026 22:09:37 UTC
 MD5Sum:
- 279db29d18c184f2de81e8c0b27d42fc 6617 Packages
- 71699e10c8b8f315d4e8a02b85f6d6d1 2548 Packages.gz
+ f86dbdd88a6c1d9551c25435d26db108 7289 Packages
+ fab1f4e8324bcee0ce94e5f2267591db 2808 Packages.gz
 SHA256:
- fb5fb28b1831000093509fa64978d8de43c7ea1285528fa521304cf184a6b1b1 6617 Packages
- cd97c722e203710b33a1c1f5f3f89bc85f8627446b50649ba12be51bbc5f7174 2548 Packages.gz
+ 82c6da80eb9919e32413468e3a77d55649bca0f9a62d2de1b705bacc1cfcac97 7289 Packages
+ 4055ddb2af252786e5072c7a8f214b7decf55a5aa26e473d6b6c63699c705ff2 2808 Packages.gz

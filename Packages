@@ -125,3 +125,18 @@ Size: 14642
 MD5sum: a814d1445ec6fd38ebb4bd171c2e3be3
 SHA1: 14ed6187dad727fd0e3de0c1996c5df1bd2644f7
 SHA256: 7020b2231ce3f2566dee04744878258124ad8d09b79ea60790994b7bb4aa5540
+
+Package: com.supremeinspirit.unlockwavefix
+Name: UnlockWave Fix
+Version: 0.2
+Architecture: iphoneos-arm64
+Depends: com.hoanganh.unlockwave (= 1.4.5)
+Section: Tweaks
+Maintainer: supremeinspirit
+Author: supremeinspirit
+Description: Add-on for UnlockWave 1.4.5 by Hoang Anh: the wave plays on every unlock, with Face ID as well as with the passcode. Needs the original UnlockWave 1.4.5 and an A12 or newer device; respring after installing.
+Filename: debs/UnlockWaveFix_0.2_rootless_iphoneos-arm64.deb
+Size: 4750
+MD5sum: 0775622cbd2b50c90bcff122d08e0162
+SHA1: 7a546592baa3c892a2d15b0594f93ad8e5fe89ab
+SHA256: 2497132d0bd92dcd2ff8e7888bc9a8f65ca27c0b7794915ee9382a1b0ec7b0ef

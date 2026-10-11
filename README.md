@@ -12,5 +12,6 @@ Add this source:
 | Liquid (Gl)ass Reworked (`dylv.liquidass`) | 0.1.1-2b+ios13.17 | rootful (iphoneos-arm), iOS 13 port, the whole tweak |
 | HIPCharge (`com.supremeinspirit.hipcharge`) | 1.6.1 | rootless (iphoneos-arm64) and rootful legacy (iphoneos-arm) |
 | BegoneCIA Reworked (`com.supremeinspirit.begonecia`) | 1.2.0 | rootless (iphoneos-arm64, iOS 15 and later) and rootful legacy (iphoneos-arm, iOS 13 and 14) |
+| UnlockWave Fix (`com.supremeinspirit.unlockwavefix`) | 0.2 (add-on for UnlockWave 1.4.5 by Hoang Anh: the wave plays on every unlock, with Face ID as well as with the passcode; install the original UnlockWave 1.4.5 first, it is not in this repo; respring after installing) | rootless (iphoneos-arm64), iOS 15 and later, A12 or newer device |
 
 The Liquid (Gl)ass packages are the same two files as in the release v3 test29; older builds are no longer offered. Releases: [LiquidGlass-Reworked](https://github.com/supremeinspirit/LiquidGlass-Reworked/releases), [HIPCharge](https://github.com/supremeinspirit/HIPCharge/releases), [BegoneCIA Reworked](https://github.com/supremeinspirit/BegoneCIA-Reworked/releases).

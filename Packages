@@ -140,3 +140,20 @@ Size: 4750
 MD5sum: 0775622cbd2b50c90bcff122d08e0162
 SHA1: 7a546592baa3c892a2d15b0594f93ad8e5fe89ab
 SHA256: 2497132d0bd92dcd2ff8e7888bc9a8f65ca27c0b7794915ee9382a1b0ec7b0ef
+
+Package: com.supremeinspirit.notibar
+Name: NotiBar
+Version: 0.4
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: supremeinspirit
+Author: supremeinspirit
+Depends: firmware (>= 17.0), mobilesubstrate
+Conflicts: local.notibar
+Replaces: local.notibar
+Description: A bell in the status bar while notifications are pending; a tap on the left side of the bar opens a panel with the apps, their counts and the notifications (open, clear). Home and lock screen, Dynamic Island phones, iOS 17, A12 or newer device; respring after installing. Test build.
+Filename: debs/NotiBar_0.4_rootless_iphoneos-arm64.deb
+Size: 35922
+MD5sum: 117e9d4fc0114d0d843ff8c11202461d
+SHA1: 35154d9f9152eede78aa66f09c12a465726a5872
+SHA256: 05850c3166c163c85c8368fcea6ec93ea2f35ff4986d5979ac7a815cd1c26295

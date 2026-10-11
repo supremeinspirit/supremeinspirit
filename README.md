@@ -13,5 +13,6 @@ Add this source:
 | HIPCharge (`com.supremeinspirit.hipcharge`) | 1.6.1 | rootless (iphoneos-arm64) and rootful legacy (iphoneos-arm) |
 | BegoneCIA Reworked (`com.supremeinspirit.begonecia`) | 1.2.0 | rootless (iphoneos-arm64, iOS 15 and later) and rootful legacy (iphoneos-arm, iOS 13 and 14) |
 | UnlockWave Fix (`com.supremeinspirit.unlockwavefix`) | 0.2 (add-on for UnlockWave 1.4.5 by Hoang Anh: the wave plays on every unlock, with Face ID as well as with the passcode; install the original UnlockWave 1.4.5 first, it is not in this repo; respring after installing) | rootless (iphoneos-arm64), iOS 15 and later, A12 or newer device |
+| NotiBar (`com.supremeinspirit.notibar`) | 0.4 (**test build**: a bell in the status bar while notifications are pending; a tap on the left side of the bar opens a panel with the apps, their counts and the notifications, which can be opened or cleared there; respring after installing) | rootless (iphoneos-arm64), iOS 17, Dynamic Island phones |
 
 The Liquid (Gl)ass packages are the same two files as in the release v3 test29; older builds are no longer offered. Releases: [LiquidGlass-Reworked](https://github.com/supremeinspirit/LiquidGlass-Reworked/releases), [HIPCharge](https://github.com/supremeinspirit/HIPCharge/releases), [BegoneCIA Reworked](https://github.com/supremeinspirit/BegoneCIA-Reworked/releases).

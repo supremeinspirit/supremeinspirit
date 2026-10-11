@@ -128,18 +128,18 @@ SHA256: 7020b2231ce3f2566dee04744878258124ad8d09b79ea60790994b7bb4aa5540
 
 Package: com.supremeinspirit.unlockwavefix
 Name: UnlockWave Fix
-Version: 0.3
+Version: 0.4
 Architecture: iphoneos-arm64
 Depends: com.hoanganh.unlockwave (= 1.4.5)
 Section: Tweaks
 Maintainer: supremeinspirit
 Author: supremeinspirit
 Description: Add-on for UnlockWave 1.4.5 by Hoang Anh: the wave plays on every unlock, with Face ID as well as with the passcode, and the settings page is in English. Needs the original UnlockWave 1.4.5 and an A12 or newer device; respring after installing.
-Filename: debs/UnlockWaveFix_0.3_rootless_iphoneos-arm64.deb
-Size: 5932
-MD5sum: 0a5d95446b4092a3cf2eae0da77b1e89
-SHA1: c3d7c19104c1d8438359c2fa23b3359879b5a2cf
-SHA256: 42e93747cd779e16ea595844318ec38e07c8fbb179e89d91f4837fcdaf309c87
+Filename: debs/UnlockWaveFix_0.4_rootless_iphoneos-arm64.deb
+Size: 9026
+MD5sum: db070bb77a5bf85639eca9aa49e42213
+SHA1: e4702e3814db6b9cd3ffd8dfdc5c573c5cef2655
+SHA256: e4caf3d143be287ac6fb8e4939b0fe3c8c6d90aea1892cd2a55f438117f3654d
 
 Package: com.supremeinspirit.notibar
 Name: NotiBar

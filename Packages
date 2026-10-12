@@ -73,28 +73,28 @@ Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
 Replaces: dylv.blurless
 Conflicts: dylv.blurless
 Architecture: iphoneos-arm
-Version: 1:0.1.1-2b+ios13.18
-Installed-Size: 7268
-Filename: debs/LiquidGlassReworked_0.1.1-2b-ios13.18_rootful-ios13_iphoneos-arm.deb
-Size: 4728580
-MD5sum: a5ebbc4f6cc37cb034e6e34fc56b1f7c
-SHA1: 8dff76527fc95262591838ed1a0d18a0740751c2
-SHA256: d4fffcf69a9a86f15d0a6976f8e7cc1060277ce52124cd9d44957bdc4b81a75f
+Version: 1:0.1.1-2b+ios13.19
+Installed-Size: 7300
+Filename: debs/LiquidGlassReworked_0.1.1-2b-ios13.19_rootful-ios13_iphoneos-arm.deb
+Size: 4741116
+MD5sum: dbbf640bef5a8b57405ca71dc4aa0146
+SHA1: b94e6c9204d4569bd78646d57ddab2c5cd425dde
+SHA256: 61e782432c0c9ad3769affac094ec796c3f3093cd94e43e7d2aacf2946f0e42e
 
 Package: com.supremeinspirit.liquidassreworked
-Name: Liquid (Gl)ass Reworked fixes (test33)
-Version: 4~test33
+Name: Liquid (Gl)ass Reworked fixes (test37)
+Version: 4~test37
 Architecture: iphoneos-arm64
-Description: The Reworked test33 fixes (test32 + the light edge of the floating tab bar follows the tilt in apps when Specular Motion is on; test32 = test29 + text bars drawn with the glass and the pill shape of the Spotlight Search Bar, their light edge follows the tilt when Specular Motion is on; the selection drop of the floating tab bar moves as a spring, changes its size with its motion and leans towards the finger; test29 = test23 + Control Center sliders: the white fill keeps its round ends while a slider module opens and closes, and the expanded sliders have no line at the top left; test23 = no round background behind the glyph of the Control Center Focus module; test22 = Control Center: coloured brightness and volume slider glyphs, no white circle on an active Focus; Dynamic Island: no dark box behind the audio waves during a call, through the new library LiquidAssFixCall for InCallService; test21 = the Dynamic Island glass keeps the card shape when the island opens into the player or another card, instead of becoming an ellipse; test19/20 = the island glass opens without flicker; test18 = "Clear Camera Pill" also clears the resting Dynamic Island, liquid glass on the text loupe and on search fields / Safari's address bar, with the settings pages "Text Loupe" and "Text Bars") as an add-on for the original Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks). Install it on top of the original. arm64, rootless.
+Description: The Reworked test37 fixes (test33 + the selection drop of the floating tab bar has the sizes of the system's own glass tab bar: big and nearly round while pressed, the same on a slow drag, flatter and longer the faster it travels; after a release the resting pill behind the selected tab arrives with a springy swing; test33 = test32 + the light edge of the floating tab bar follows the tilt in apps when Specular Motion is on; test32 = test29 + text bars drawn with the glass and the pill shape of the Spotlight Search Bar, their light edge follows the tilt when Specular Motion is on; the selection drop of the floating tab bar moves as a spring, changes its size with its motion and leans towards the finger; test29 = test23 + Control Center sliders: the white fill keeps its round ends while a slider module opens and closes, and the expanded sliders have no line at the top left; test23 = no round background behind the glyph of the Control Center Focus module; test22 = Control Center: coloured brightness and volume slider glyphs, no white circle on an active Focus; Dynamic Island: no dark box behind the audio waves during a call, through the new library LiquidAssFixCall for InCallService; test21 = the Dynamic Island glass keeps the card shape when the island opens into the player or another card, instead of becoming an ellipse; test19/20 = the island glass opens without flicker; test18 = "Clear Camera Pill" also clears the resting Dynamic Island, liquid glass on the text loupe and on search fields / Safari's address bar, with the settings pages "Text Loupe" and "Text Bars") as an add-on for the original Liquid (Gl)ass 0.1.1-2b by dylv (winaviation-tweaks). Install it on top of the original. arm64, rootless.
 Maintainer: supremeinspirit
 Author: supremeinspirit (fixes), dylv (original Liquid (Gl)ass)
 Section: Tweaks
 Depends: dylv.liquidass, firmware (>= 15.0)
-Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test33_rootless-patch_iphoneos-arm64.deb
-Size: 152028
-MD5sum: 5bcdd275ae1030b2cd42410b68f4f07a
-SHA1: e40d8dcefae8401558c8803a0081d165751b1393
-SHA256: fbcc95b3339f2ab7afc02614b02b91eb31334cdf82ec2591ca1ccea22df2e17f
+Filename: debs/LiquidGlassReworked_0.1.1-2b-reworked4-test37_rootless-patch_iphoneos-arm64.deb
+Size: 106172
+MD5sum: a06658530556de2e8e30ebd26bd611dc
+SHA1: 564b8a142dd46291a63ebb09a7bb9bd2e0a07bdc
+SHA256: 80fa0a353ad85b95ffb98b69c7d658c9ada469f89a93bed952712166bb13115f
 
 Package: com.supremeinspirit.ccrespring13
 Name: CCRespring13

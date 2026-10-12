@@ -73,13 +73,13 @@ Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
 Replaces: dylv.blurless
 Conflicts: dylv.blurless
 Architecture: iphoneos-arm
-Version: 0.1.1-2b+ios13.17
+Version: 1:0.1.1-2b+ios13.18
 Installed-Size: 7268
-Filename: debs/LiquidGlassReworked_0.1.1-2b-ios13.17_rootful-ios13_iphoneos-arm.deb
-Size: 4728586
-MD5sum: ad473a5a89eeaea5694cc25f5d9827e7
-SHA1: dfcb4e2448f143f06d8cbe7efc4af7fbebf14c62
-SHA256: afabe11e135f37ea9bed41db56150bdd820c7d871d5f3d26ca7e02ca66315d14
+Filename: debs/LiquidGlassReworked_0.1.1-2b-ios13.18_rootful-ios13_iphoneos-arm.deb
+Size: 4728580
+MD5sum: a5ebbc4f6cc37cb034e6e34fc56b1f7c
+SHA1: 8dff76527fc95262591838ed1a0d18a0740751c2
+SHA256: d4fffcf69a9a86f15d0a6976f8e7cc1060277ce52124cd9d44957bdc4b81a75f
 
 Package: com.supremeinspirit.liquidassreworked
 Name: Liquid (Gl)ass Reworked fixes (test33)

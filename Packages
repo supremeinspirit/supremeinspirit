@@ -206,3 +206,33 @@ Size: 3562
 MD5sum: a36ccb74e16437b885b08f93b525ab10
 SHA1: ba37402abe0392a8eafd28dc27067e6bc60d8515
 SHA256: 705d5b34853e136dcc65798bf1571a93972e13a11151b78b0a8e0fcaa94b20d7
+
+Package: com.supremeinspirit.ccvpnfix
+Name: CCVPN Fix
+Version: 0.1
+Architecture: iphoneos-arm64
+Depends: com.skypain.ccvpn
+Section: Tweaks
+Maintainer: supremeinspirit
+Author: supremeinspirit
+Description: Add-on for CCVPN by skypain: the Control Center switch now really turns VPN apps like Proton VPN off and on. It clears "Connect On Demand" on the selected VPN before disconnecting, so the connection no longer comes straight back, and sets it again when switching on. Needs CCVPN; respring after installing.
+Filename: debs/CCVPNFix_0.1_rootless_iphoneos-arm64.deb
+Size: 5192
+MD5sum: e975e6c871ee132678d07d570bb5662b
+SHA1: 76cf501c5bf383588de2777eea79d4364575866f
+SHA256: 69ef2a6b3afd21e2de38dd8d2038cea6f50a1dc07803fed122846cfe747543fa
+
+Package: com.supremeinspirit.vibeoff
+Name: Vibration Off
+Version: 0.1
+Architecture: iphoneos-arm64
+Depends: com.opa334.ccsupport
+Section: Tweaks
+Maintainer: supremeinspirit
+Author: supremeinspirit
+Description: Control Center toggle that turns every vibration on the phone off (calls, notifications, keyboard, app haptics). It flips the system's own Vibration switch from Accessibility > Touch, so nothing is hooked. Add it under Settings > Control Center; respring after installing.
+Filename: debs/VibrationOff_0.1_rootless_iphoneos-arm64.deb
+Size: 4544
+MD5sum: 58b560d849a3d961b44b3d1ddf43078c
+SHA1: d32263a7d68cd47ea207d6d83fb1ec52aa288222
+SHA256: 680e86f9e320faffe59be9744dde9e907ece88f2704074b65d8ac22cd3e00f2e

@@ -52,7 +52,7 @@ document.getElementById('copy').onclick=function(){
   var t=document.getElementById('u').textContent,b=this;
   try{navigator.clipboard.writeText(t).then(function(){b.textContent='Copied';setTimeout(function(){b.textContent='Copy'},1500)})}catch(e){}
 };
-fetch('Packages').then(function(r){return r.text()}).then(function(t){
+fetch('Packages?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.text()}).then(function(t){
   var seen={},items=[];
   t.split(/\n\n+/).forEach(function(s){
     var d={};s.split('\n').forEach(function(l){var i=l.indexOf(':');if(i>0&&l[0]!==' ')d[l.slice(0,i)]=l.slice(i+1).trim()});

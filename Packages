@@ -255,3 +255,18 @@ Size: 69548
 MD5sum: 4d3000082e1ecddaa76ef3609c8de512
 SHA1: 5549431b018665099f06b3a47824ce0da6d81b65
 SHA256: 45681e2d0b492de4b5a0577a2c948ace797a928b4092b738ffaf28c5000c1c97
+
+Package: com.pisknk.twentyone
+Name: TwentyOne Reworked
+Version: 1:2.0.3+spotify.4
+Architecture: iphoneos-arm64
+Description: TwentyOne 2.0.3 with animated lock screen artwork for Spotify (Apple Music motion covers, Spotify Canvas as fallback) and hidden lock screen widgets while the artwork plays.
+Maintainer: supremeinspirit
+Author: pisknk, supremeinspirit
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: debs/com.pisknk.twentyone_2.0.3-spotify.4_iphoneos-arm64.deb
+Size: 418002
+MD5sum: 8a575d7a530f06fdedb9062b6ff1155a
+SHA1: b356bd7cb2051efce83e9f69ffb9817c7eaf9907
+SHA256: 65e7e3d2b74e5cb3258222ceb3e4f44e8d2ca5d75914f97cc75c844793f152e0

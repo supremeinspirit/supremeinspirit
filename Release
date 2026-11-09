@@ -8,11 +8,11 @@ Components: main
 Date: Mon, 09 Nov 2026 16:07:11 GMT
 Description: Tweaks by supremeinspirit: Liquid (Gl)ass Reworked (rootless fixes for the original 0.1.2, rootful iOS 13 port), HIPCharge, BegoneCIA Reworked, CCRespring13, Podified13, UnlockWave Fix, NotiBar, NoMoreUselessActivity, CCVPN Fix and Vibration Off, Dryft, TwentyOne Reworked
 MD5Sum:
- 394c873f51e5fb0c0eb50e96a064d7a5 14748 Packages
- c07fe3fbc24dce1c9d897f4a85fae532 5115 Packages.gz
+ b1abeda2ff71ba639b68f330664e2718 15391 Packages
+ e8b51cd8166b116b269468918818a2a3 5256 Packages.gz
 SHA1:
- 55b51ff2e7b30683a0ebf425bc9ed22b22f61f0b 14748 Packages
- 3721c0456c1f4253c0c94fec239ac2892326db0d 5115 Packages.gz
+ 2b297ee880d982a1eedb2d9e3ae67e8d8b16517b 15391 Packages
+ 6a729992e9dbb4bc7d2b4ade0a448ec33109c13f 5256 Packages.gz
 SHA256:
- 9b9c884a72ff024d4dc72a356e3793e5867482fc8167c6d46a1d6b03060d3a0b 14748 Packages
- 6078a7b26ea492f12a33a892007d637325d27b39905f5fd0bfed1647c7995176 5115 Packages.gz
+ dec1a5931cdca0a1a8d8894294840006f0f74c424110362689b06ac47701c233 15391 Packages
+ dcd8892ce6cd2f59002ac3bb21b1bb7f778633c937a781aba8de020ab27a2154 5256 Packages.gz

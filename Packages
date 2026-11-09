@@ -285,3 +285,19 @@ Size: 418002
 MD5sum: 8a575d7a530f06fdedb9062b6ff1155a
 SHA1: b356bd7cb2051efce83e9f69ffb9817c7eaf9907
 SHA256: 65e7e3d2b74e5cb3258222ceb3e4f44e8d2ca5d75914f97cc75c844793f152e0
+
+Package: com.supremeinspirit.dryft
+Name: Dryft
+Version: 1.1.0-9
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: supremeinspirit
+Author: supremeinspirit
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Description: A dock that holds as many apps as you like: swipe it left and right to see them all.
+Icon: file:///var/jb/Library/PreferenceBundles/DryftPrefs.bundle/icon@3x.png
+Filename: ./debs/com.supremeinspirit.dryft_1.1.0-9_iphoneos-arm64.deb
+Size: 71214
+MD5sum: 919eb6151e04b408c6eb0736b2e3a687
+SHA1: ef87a5f9caf4baac7c5b522a925f51a51f408a35
+SHA256: 867fd78f71f1c3cae3c7cd274aaefd2a31e9e2d97f8ec6ab20a5786aff638e9e

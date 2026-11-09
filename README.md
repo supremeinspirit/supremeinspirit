@@ -8,7 +8,7 @@ Add this source:
 
 | Package | Version | For |
 | --- | --- | --- |
-| Dryft (`com.supremeinspirit.dryft`) | 1.1.0-8 | rootless (iphoneos-arm64), iOS 15 and later; replaces the original `com.antonym.drift` package |
+| Dryft (`com.supremeinspirit.dryft`) | 1.1.0-9 (1.1.0-8 kept) | rootless (iphoneos-arm64), iOS 15 and later; replaces the original `com.antonym.drift` package |
 | Liquid (Gl)ass Reworked fixes (`com.supremeinspirit.liquidassreworked`) | 5.0 for the original 0.1.2 by dylv (install it first, it is not in this repo): smoother lock screen notifications, coloured widgets, depth hidden on unlock, natural floating tab bar motion, Control Center and Dynamic Island glass fixes, glass text loupe and search fields, no background battery drain. For the old original 0.1.1-2b the builds 4~test41 and 4~test38 are still offered | rootless, iOS 15 and later, arm64 |
 | Liquid (Gl)ass Reworked (`dylv.liquidass`) | 1:0.1.1-2b+ios13.21 (tab bar motion and Control Center glyph colours of the rootless fixes; ios13.19 to ios13.21 were not run on a device). 1:0.1.1-2b+ios13.20 is still offered | rootful (iphoneos-arm), iOS 13 port, the whole tweak |
 | HIPCharge (`com.supremeinspirit.hipcharge`) | 1.6.1 | rootless (iphoneos-arm64) and rootful legacy (iphoneos-arm) |

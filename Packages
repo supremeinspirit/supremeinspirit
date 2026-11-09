@@ -236,3 +236,22 @@ Size: 4544
 MD5sum: 58b560d849a3d961b44b3d1ddf43078c
 SHA1: d32263a7d68cd47ea207d6d83fb1ec52aa288222
 SHA256: 680e86f9e320faffe59be9744dde9e907ece88f2704074b65d8ac22cd3e00f2e
+
+Package: com.supremeinspirit.dryft
+Name: Dryft
+Version: 1.1.0-8
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: supremeinspirit
+Author: supremeinspirit
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Description: A dock that holds as many apps as you like: swipe it left and right to see them all.
+Replaces: com.antonym.drift
+Provides: com.antonym.drift
+Conflicts: com.antonym.drift
+Icon: https://img.chariz.cloud/icon/drift/icon@3x.png
+Filename: debs/com.supremeinspirit.dryft_1.1.0-8_iphoneos-arm64.deb
+Size: 69548
+MD5sum: 4d3000082e1ecddaa76ef3609c8de512
+SHA1: 5549431b018665099f06b3a47824ce0da6d81b65
+SHA256: 45681e2d0b492de4b5a0577a2c948ace797a928b4092b738ffaf28c5000c1c97

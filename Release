@@ -1,15 +1,1 @@
-Origin: supremeinspirit
-Label: supremeinspirit
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
-Components: main
-Description: Tweaks by supremeinspirit: Liquid (Gl)ass Reworked (rootless patch for the original 0.1.1-2b, rootful iOS 13 port), HIPCharge, BegoneCIA Reworked, CCRespring13, Podified13, UnlockWave Fix, NotiBar, NoMoreUselessActivity, CCVPN Fix and Vibration Off
-Date: Sun, 08 Nov 2026 23:57:19 GMT
-MD5Sum:
- c5e4b619b046440208602093ca3e2554 15966 Packages
- 0da0a18b106a86b71f667e7eac2077c5 5145 Packages.gz
-SHA256:
- e66154ddcec929bb9327f839164ba3e116f51cd36c18aed6fa13b4f77e94da5c 15966 Packages
- 02033d9081b2553cc5c9f84a972b8069e768c4b71cf63a452817ce09d65af6fe 5145 Packages.gz
+Origin: supremeinspirit\nLabel: supremeinspirit\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitectures: iphoneos-arm iphoneos-arm64\nComponents: main\nDate: Mon, 09 Nov 2026 11:05:27 GMT\nDescription: Tweaks by supremeinspirit: Liquid (Gl)ass Reworked (rootless patch for the original 0.1.1-2b, rootful iOS 13 port), HIPCharge, BegoneCIA Reworked, CCRespring13, Podified13, UnlockWave Fix, NotiBar, NoMoreUselessActivity, CCVPN Fix and Vibration Off, Dryft\nMD5Sum:\n a46a861bd1534c6a9970ab70ea17dd9d 16669 Packages\n eeb1e824ba3de7dfd12b219536929e9d 5382 Packages.gz\nSHA1:\n 6e97346d0192b7c4f8c2e530247451b32d26390e 16669 Packages\n a2d0d1a7597edae813f15218d21324b8deb3b5e8 5382 Packages.gz\nSHA256:\n 121cc8c140a961663c7b24cd9cc0e62048b4a8fe9195e7721d0e8e18360d9a89 16669 Packages\n 099b1397946006813ebeef97672af44b0b0bbf83b81720597d8f1fa2276f4f7b 5382 Packages.gz\n

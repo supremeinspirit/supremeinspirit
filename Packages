@@ -301,3 +301,36 @@ Size: 71214
 MD5sum: 919eb6151e04b408c6eb0736b2e3a687
 SHA1: ef87a5f9caf4baac7c5b522a925f51a51f408a35
 SHA256: 867fd78f71f1c3cae3c7cd274aaefd2a31e9e2d97f8ec6ab20a5786aff638e9e
+
+Package: com.supremeinspirit.notibar
+Name: NotiBar
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: supremeinspirit
+Author: supremeinspirit
+Depends: firmware (>= 17.0), mobilesubstrate
+Conflicts: local.notibar
+Replaces: local.notibar
+Description: A bell in the status bar while notifications are pending; a tap on the left side of the bar opens a panel with the apps, their counts and the notifications. Liquid glass panel with LiquidAss (follows the Pill HUD glass settings). iOS 17.
+Filename: debs/com.supremeinspirit.notibar_1.0_iphoneos-arm64.deb
+Size: 39072
+MD5sum: 40829f8811c2722d15bbf32c3de208e0
+SHA1: 9ffa92d045bd8c5cd2abdc975aa167f845add730
+SHA256: d65c167f8802befcf72abb3f5fa7df1d1e4fb82df53a7a608c209077bd21c344
+
+Package: com.supremeinspirit.dryft
+Name: Dryft
+Version: 1.1.0-10
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: supremeinspirit
+Author: supremeinspirit
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Description: A dock that holds as many apps as you like: swipe it left and right to see them all.
+Icon: file:///var/jb/Library/PreferenceBundles/DryftPrefs.bundle/icon@3x.png
+Filename: debs/com.supremeinspirit.dryft_1.1.0-10_iphoneos-arm64.deb
+Size: 72220
+MD5sum: 8721803d3a80d1337bcce7abc4a8ef4d
+SHA1: 4e58ef483a79a55d31970fad98e89eb609e7a203
+SHA256: 47e42d5a2236b5429a3c67f33a79c083e11a039803a9d291790df2994192970e
